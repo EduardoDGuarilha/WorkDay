@@ -1,0 +1,6 @@
+@WorkDay.Server_HostAddress = http://localhost:5263
+
+GET {{WorkDay.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

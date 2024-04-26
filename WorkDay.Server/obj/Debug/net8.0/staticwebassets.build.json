@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "+6TkLhiX8ETKGOE0JKYxj7FPfacT6VAdi0AbxzICf8M=",
+  "Source": "WorkDay.Server",
+  "BasePath": "_content/WorkDay.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Eduardo\\Desktop\\Fontes\\WorkDay\\WorkDay\\workday.client\\workday.client.esproj",
+      "Version": 2,
+      "Source": "workday.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

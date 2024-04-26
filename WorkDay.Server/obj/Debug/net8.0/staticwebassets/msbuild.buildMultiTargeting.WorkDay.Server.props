@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WorkDay.Server.props" />
+</Project>
